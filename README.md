@@ -9,6 +9,7 @@ Welcome to my To-Do List App, a project that highlights my development skills an
 - ExpressJS
 - MySQL
 - Sequelize
+- Material UI
 
 ## Bundler
 
