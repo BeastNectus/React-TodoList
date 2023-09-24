@@ -10,6 +10,10 @@ Welcome to my To-Do List App, a project that highlights my development skills an
 - MySQL
 - Sequelize
 
+## Bundler
+
+- Vite
+
 ## Features
 
 - Intuitive task creation, organization, and monitoring.
